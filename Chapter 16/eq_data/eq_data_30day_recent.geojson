@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1723683992000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+        "title": "USGS Significant Earthquakes, Past Week",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 4
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.39,
+                "place": "4 km SSE of Highland Park, CA",
+                "time": 1723490424670,
+                "updated": 1723682153698,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40699207",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40699207.geojson",
+                "felt": 24126,
+                "cdi": 5.4,
+                "mmi": 5.235,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1190,
+                "net": "ci",
+                "code": "40699207",
+                "ids": ",ew1723490420,ci40699207,at00si4dq0,us6000njp1,",
+                "sources": ",ew,ci,at,us,",
+                "types": ",dyfi,focal-mechanism,impact-link,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 192,
+                "dmin": 0.03299,
+                "rms": 0.24,
+                "gap": 24,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.4 - 4 km SSE of Highland Park, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1788333,
+                    34.0825,
+                    10.98
+                ]
+            },
+            "id": "ci40699207"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "150 km E of Dolinsk, Russia",
+                "time": 1723260512905,
+                "updated": 1723347543408,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000nj9s",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000nj9s.geojson",
+                "felt": 5,
+                "cdi": 2.7,
+                "mmi": 3.291,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 651,
+                "net": "us",
+                "code": "6000nj9s",
+                "ids": ",at00shzgbj,us6000nj9s,pt24223000,",
+                "sources": ",at,us,pt,",
+                "types": ",associate,dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 142,
+                "dmin": 1.386,
+                "rms": 0.93,
+                "gap": 32,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.5 - 150 km E of Dolinsk, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.763,
+                    47.1777,
+                    406.523
+                ]
+            },
+            "id": "us6000nj9s"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.1,
+                "place": "2024 Hyuganada Sea, Japan Earthquake",
+                "time": 1723102975345,
+                "updated": 1723190027857,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000nith",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000nith.geojson",
+                "felt": 40,
+                "cdi": 8.3,
+                "mmi": 7.22,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 809,
+                "net": "us",
+                "code": "6000nith",
+                "ids": ",us6000nith,at00shw2rm,",
+                "sources": ",us,at,",
+                "types": ",associate,dyfi,earthquake-name,finite-fault,general-text,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 151,
+                "dmin": 5.793,
+                "rms": 1.04,
+                "gap": 20,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.1 - 2024 Hyuganada Sea, Japan Earthquake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.5271,
+                    31.7191,
+                    25
+                ]
+            },
+            "id": "us6000nith"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.44,
+                "place": "22 km NW of Grapevine, CA",
+                "time": 1723082955010,
+                "updated": 1723498471540,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40869232",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40869232.geojson",
+                "felt": 760,
+                "cdi": 4.3,
+                "mmi": 5.58,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 630,
+                "net": "ci",
+                "code": "40869232",
+                "ids": ",ew1723082960,ci40869232,us6000nis3,",
+                "sources": ",ew,ci,us,",
+                "types": ",dyfi,focal-mechanism,losspager,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 99,
+                "dmin": 0.04425,
+                "rms": 0.28,
+                "gap": 21,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.4 - 22 km NW of Grapevine, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.0726667,
+                    35.102,
+                    11.57
+                ]
+            },
+            "id": "ci40869232"
+        }
+    ],
+    "bbox": [
+        -119.0726667,
+        31.7191,
+        10.98,
+        144.763,
+        47.1777,
+        406.523
+    ]
+}
